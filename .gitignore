@@ -1,0 +1,6 @@
+node_modules
+css/style.css
+.idea
+.DS_Store
+simple-tailwind-starter.iml
+package-lock.json
